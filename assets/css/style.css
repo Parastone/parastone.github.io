@@ -23,7 +23,7 @@ body::before {
   right: 0;
   top: 0;
   bottom: 0;
-  background: rgba(49, 71, 89, 0.6);
+  background: rgba(0, 0, 0, 0.6);
 }
 
 @media (min-width: 1024px) {
@@ -277,8 +277,8 @@ h6 {
 }
 
 #header .social-links a:hover {
-  background: #24b7a4;
-  border-color: #24b7a4;
+  background: #000000;
+  border-color: #000000;
 }
 
 /*--------------------------------------------------------------
